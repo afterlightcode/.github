@@ -29,7 +29,7 @@ At AfterLight, we're dedicated to empowering developers with cutting-edge tools 
 
 Our microservices architecture ensures scalability, maintainability, and rapid development:
 
-<img src="https://i.ibb.co/sjDvz9V/diagram-export-10-16-2024-1-26-16-AM.png" alt="AfterLight System Architecture" style="width: 100%;">
+<img src="https://github.com/afterlightcode/afterlight/blob/main/docs/img/architecture-diagram.png" alt="AfterLight System Architecture" style="width: 100%;">
 
 ## Key Repositories
 
